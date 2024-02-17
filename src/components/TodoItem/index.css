@@ -1,0 +1,22 @@
+.todo-item {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+
+.title {
+  color: #000000;
+  font-family: 'Roboto';
+  align-self: flex-start;
+  margin-right: 20px;
+}
+
+.button {
+  background-color: transparent;
+  color: #ff0b37;
+  border: 1px solid #ff0b37;
+  border-radius: 5px;
+  padding: 5px;
+  font-family: 'Roboto';
+  align-self: flex-end;
+}
